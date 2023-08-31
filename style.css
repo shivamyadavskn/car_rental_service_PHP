@@ -1,0 +1,19 @@
+th,td,tr{
+    border: 2px solid red;
+    text-align: center;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+tr:hover{
+    background-color: darkmagenta;
+    color: white;
+}
+
+#bgc{
+background-color: rgb(15, 224, 155);
+color: black;
+}
